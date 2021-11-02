@@ -15,7 +15,7 @@ My cats are named:
 - Jiji
 - Penny 
 
-![Read more about cats here] (https://en.wikipedia.org/wiki/Cat)
+[Read more about cats here](https://en.wikipedia.org/wiki/Cat)
 
 Here is Tilly:
 ![](./src/assets/IMG_8650.jpg)
